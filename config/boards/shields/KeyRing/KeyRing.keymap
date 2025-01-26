@@ -10,7 +10,7 @@
                 bindings = <
                     &none       &none    &none    &none    &kp A    &none
                     &none       &kp B    &kp C    &kp D    &kp E    &kp KP_N0
-                    &kp KP_N1   &kp F    &kp G    7kp H    &kp I    &kp KP_N2
+                    &kp KP_N1   &kp F    &kp G    &kp H    &kp I    &kp KP_N2
                     &kp KP_N3   &kp J    &kp K    &kp L    &kp M    &kp KP_N4
                     &kp KP_N5   &kp N    &kp O    &kp P    &kp Q    &kp KP_N6
                     &kp KP_N7   &kp R    &kp S    &kp T    &kp U    &kp KP_N8
